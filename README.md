@@ -22,7 +22,7 @@ VaaniVerse is a real-time multilingual translator web application that allows us
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/yourusername/vaaniverse.git
+   git clone https://github.com/Rajatha19/vaaniverse.git
    cd vaaniverse
    \`\`\`
 

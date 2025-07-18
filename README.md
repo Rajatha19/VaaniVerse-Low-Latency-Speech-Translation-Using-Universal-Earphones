@@ -23,20 +23,21 @@ VaaniVerse is a real-time multilingual translator web application that allows us
 1. Clone the repository:
    \`\`\`
    git clone https://github.com/Rajatha19/vaaniverse.git
+
    cd vaaniverse
    \`\`\`
 
-2. Install dependencies:
+3. Install dependencies:
    \`\`\`
    npm install
    \`\`\`
 
-3. Run the development server:
+4. Run the development server:
    \`\`\`
    npm run dev
    \`\`\`
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## Testing
 
